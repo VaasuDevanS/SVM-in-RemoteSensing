@@ -2,8 +2,8 @@ name: rise-environment
 dependencies:
   - python=3.5
   - numpy
-  - scikit-image
   - scikit-learn
   - matplotlib
   - pandas
   - rise
+  - cowsay
