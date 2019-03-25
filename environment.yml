@@ -1,11 +1,9 @@
 name: rise-environment
-channels:
-  - damianavila82
-  - conda-forge
 dependencies:
-  - python
+  - python=3.5
   - numpy
+  - scikit-image
+  - scikit-learn
   - matplotlib
   - pandas
-  - bokeh
   - rise
