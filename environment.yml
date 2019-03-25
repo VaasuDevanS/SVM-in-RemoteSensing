@@ -6,4 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - rise
-  - cowsay
+  - pip
+  - pip:
+    - cowsay
