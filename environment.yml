@@ -1,12 +1,11 @@
 name: rise-environment
 dependencies:
-  - python=3.5
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - pandas
-  - rise
   - pip
   - pip:
     - cowsay
     - mlxtend
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - rise
