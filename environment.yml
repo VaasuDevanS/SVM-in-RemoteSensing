@@ -7,5 +7,5 @@ dependencies:
   - pandas
   - rise
   - pip:
-    - cowsay=1.0
+    - cowsay==1.0
     - mlxtend
