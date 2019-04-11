@@ -1,3 +1,3 @@
 # An-Insight-into-SVM
 
-Presentation talk
+Presentation talk for my Image Procesing and Computer Vision course
