@@ -1,6 +1,7 @@
 # SVM-in-RemoteSensing
 
 Presentation is hosted in mybinder.org
+
 Implementation (for IRIS dataset and satellite image) can be played with Google Colab
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VaasuDevanS/SVM-in-RemoteSensing/master?filepath=Presentation_Talk%2FSupport%20Vector%20Machine.ipynb)
